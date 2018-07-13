@@ -1,0 +1,7 @@
+Welcome to your First Python Exam, anonymous yet beloved Kenzie Student.
+Only the best students can rule the world.
+Do you have what it takes?
+We will test your knowledge with this readiness exam.
+It should be pretty simple, since you only know the basics so far.
+Let's get started.
+Best of luck to you, future Pythonista!
